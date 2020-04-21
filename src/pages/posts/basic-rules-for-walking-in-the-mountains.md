@@ -6,7 +6,7 @@ excerpt: >-
   requires pushing vegetation aside.
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
-content_img_path: images/1.jpg
+content_img_path: 
 template: post
 ---
 
